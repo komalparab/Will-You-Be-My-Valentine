@@ -39,7 +39,7 @@ button {
 }
 
 .popup-page img {
-    width: 450px;   /* increased size */
+    width: 550px;   /* increased size */
     max-width: 90%; /* keeps it responsive on mobile */
     border-radius: 20px;
 }
@@ -68,4 +68,5 @@ button {
     background: white;
     border-radius: 15px;
 }
+
 
