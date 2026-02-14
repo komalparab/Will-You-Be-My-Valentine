@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Page 1 */
+.home {
+    background: #ffe6f0;
+    padding-top: 120px;
+    height: 100vh;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 18px;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#yesBtn {
+    background: #ff4d88;
+    color: white;
+}
+
+#noBtn {
+    background: gray;
+    color: white;
+    position: absolute;
+}
+
+/* Page 2 */
+.popup-page {
+    background: #fff0f5;
+    padding-top: 100px;
+    height: 100vh;
+}
+
+.popup-page img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+/* Page 3 */
+.letters-page {
+    background: #ffe6f0;
+    padding: 40px;
+    min-height: 100vh;
+}
+
+.tab {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background: #ff4d88;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.content {
+    display: none;
+    margin-top: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 15px;
+}
